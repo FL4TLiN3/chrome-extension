@@ -1,0 +1,9 @@
+#notification {
+    position: fixed;
+    width: 400px;
+    height: 200px;
+    top: 50px;
+    right: 50px;
+    background: #fff;
+    border: 3px solid #54AB64;
+}
